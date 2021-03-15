@@ -2,7 +2,7 @@ package carbon
 
 import (
 	"math"
-	"strconv"
+	_ "strconv"
 )
 
 var (
